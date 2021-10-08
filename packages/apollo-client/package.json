@@ -47,7 +47,7 @@
   "dependencies": {
     "@types/zen-observable": "^0.8.0",
     "apollo-cache": "file:../apollo-cache",
-    "apollo-link": "^1.0.0",
+    "apollo-link": "^1.2.14",
     "apollo-utilities": "file:../apollo-utilities",
     "symbol-observable": "^1.0.2",
     "ts-invariant": "^0.4.0",
