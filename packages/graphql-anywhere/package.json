@@ -42,7 +42,7 @@
   "license": "MIT",
   "dependencies": {
     "apollo-utilities": "file:../apollo-utilities",
-    "ts-invariant": "^0.3.2",
+    "ts-invariant": "^0.9.3",
     "tslib": "^1.9.3"
   },
   "peerDependencies": {
